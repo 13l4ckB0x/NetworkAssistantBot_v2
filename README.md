@@ -7,6 +7,9 @@
 - Netbox-источник истины
 - LibreNMS-система мониторинга
 
+# Подготовка инфраструктуры
+- Установить Netbox https://netboxlabs.com/docs/netbox/installation/ 
+- Установить LibreNMS https://docs.librenms.org/Installation/Install-LibreNMS/
 
 # Установка зависимостей
 
